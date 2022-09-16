@@ -1,0 +1,2 @@
+# pipelines
+Stable Diffusion pipelines
